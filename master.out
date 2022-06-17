@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Fourier Analysis}{}% 1
+\BOOKMARK [1][-]{section.2}{Fourier Series}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Trigonometric Series}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Exponentials}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Fourier Transform}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Discrete Fourier Transform}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.1.1}{The FFT}{subsection.3.1}% 7
+\BOOKMARK [1][-]{section.4}{Properties of the Fourier Transform and It's Inverse}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Convolution Theorem}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Applications of Fourier Analysis}{}% 10
